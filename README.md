@@ -1,6 +1,6 @@
 # Olá, eu sou Ronaldo Navarro! 👋
 
-![Profile Banner](https://github.com/RonaldoSNavarro.png)
+
 
 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
