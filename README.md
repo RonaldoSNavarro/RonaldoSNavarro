@@ -32,11 +32,6 @@ Aplicação em Java focada no consumo de APIs externas e manipulação de dados 
 ### [ScreenMatch](https://github.com/RonaldoSNavarro/screenmatch)
 Projeto desenvolvido para consolidar conhecimentos em Java OO, coleções e integração com banco de dados para gerenciamento de catálogos de entretenimento.
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldoSNavarro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSNavarro&layout=compact&theme=radical)
-
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldonavarro)
