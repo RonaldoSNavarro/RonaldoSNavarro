@@ -78,4 +78,4 @@ API RESTful em **Java / Spring Boot / PostgreSQL** para gestão de clínica de s
 
 - 💼 **LinkedIn**: [linkedin.com/in/ronaldonavarro](https://www.linkedin.com/in/ronaldonavarro/)
 - ✉️ **E-mail**: [navarro.silva@terra.com.br](mailto:navarro.silva@terra.com.br)
-- 📍 **Localização**: Praia Grande, SP (Disponível para posições Remotas)
+- 📍 **Localização**: Praia Grande, SP (Disponível para posições remotas e presenciais)
